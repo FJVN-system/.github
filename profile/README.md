@@ -1,7 +1,7 @@
 # FJVN system
 
 ## Architecture
-![FJVN아키텍쳐](https://user-images.githubusercontent.com/104489626/220808817-8e5aeac8-b41b-4a70-9999-78e8ba877399.jpg)
+![FJVN아키텍쳐 (1)](https://user-images.githubusercontent.com/104489626/220809129-e950b81d-b97b-4d03-a4d9-dfbb6a4e6bb9.jpg)
 
 
 ## API-SERVER
