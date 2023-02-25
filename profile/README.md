@@ -6,9 +6,9 @@
 
 ## API-SERVER
 
-### DNS 주소 [링크](http://fjvn-api-alb-1996066582.ap-northeast-2.elb.amazonaws.com/healthcheck)
- - http://fjvn-api-alb-1996066582.ap-northeast-2.elb.amazonaws.com
- - http://fjvn-api-alb-1996066582.ap-northeast-2.elb.amazonaws.com/healthcheck
+### DNS 주소 [링크](http://fjvn-api-server-prod-1286120377.ap-northeast-2.elb.amazonaws.com/healthcheck)
+ - http://fjvn-api-server-prod-1286120377.ap-northeast-2.elb.amazonaws.com
+ - http://fjvn-api-server-prod-1286120377.ap-northeast-2.elb.amazonaws.com/healthcheck
  
  
  
